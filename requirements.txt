@@ -1,10 +1,5 @@
 requests
 bs4
 pandas
-matplotlib.pyplot
+matplotlib
 nltk
-nltk.tokenize 
-nltk.sentiment 
-nltk.corpus
-nltk.corpus 
-nltk.stem.porter 
